@@ -1,0 +1,5 @@
+Credentials cache: API:1CF6173A-D441-4C0C-A5F7-BBD4C1665FFA
+        Principal: sabazyan@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Feb 15 20:21:25 2022  Feb 16 06:21:25 2022  krbtgt/42YEREVAN.AM@42YEREVAN.AM
